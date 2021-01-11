@@ -3,7 +3,7 @@ import java.awt.*;
 import java.util.ArrayList;
 
 public class Main {
-    public static JFrame frame = new JFrame("Point In Polygon Demonstration");
+    public static JFrame frame = new JFrame("Fisk's Method");
     public static GraphPanel gpanel;
     public static AlgebraPanel algebraPanel;
     public static int[] redgreenblue;
